@@ -83,7 +83,7 @@ javac FileHandlingUtility.java
 java FileHandlingUtility
 ```
 
-*OUTPUT
+*OUTPUT*
 
 <img width="1865" height="556" alt="Image" src="https://github.com/user-attachments/assets/2dcce977-baf2-415e-9209-7d11f311b3ef" />
 
